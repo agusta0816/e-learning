@@ -240,7 +240,7 @@ class Login_model extends CI_Model
             $this->db->where('username', $username);
         }
         if (!is_null($password)) {
-            $this->db->where('password', $password);
+            $this->db->where('password', md5($password));
         }
         if (!is_null($siswa_id)) {
             $siswa_id = (int)$siswa_id;

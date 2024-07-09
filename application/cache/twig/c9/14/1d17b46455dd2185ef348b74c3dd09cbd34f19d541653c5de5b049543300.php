@@ -47,7 +47,7 @@ class __TwigTemplate_c9141d17b46455dd2185ef348b74c3dd09cbd34f19d541653c5de5b0495
                         <img src=\"";
         // line 17
         echo twig_escape_filter($this->env, get_logo_config(), "html", null, true);
-        echo "\"> <span class=\"visible-desktop visible-tablet brand-txt\">SMA DHARMA KIRTI</span>
+        echo "\"> <span class=\"visible-desktop visible-tablet brand-txt\">SMK Pariwisata Singamandawa Monarch Bali</span>
                     </a>
                     <div class=\"nav-collapse collapse navbar-inverse-collapse\">
                         <form class=\"navbar-search pull-left input-append\" method=\"get\" action=\"";

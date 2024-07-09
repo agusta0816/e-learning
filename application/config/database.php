@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'elearning';
+$db['default']['hostname'] = '157.173.212.145';
+$db['default']['username'] = 'dev2';
+$db['default']['password'] = 'Alfa774@12Y443';
+$db['default']['database'] = 'lms';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = 'el_';
 $db['default']['pconnect'] = TRUE;

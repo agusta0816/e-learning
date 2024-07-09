@@ -48,7 +48,7 @@ class __TwigTemplate_e90fa57625215670b6cadf6ca7ed17e0cf12b9d2d310477f3e4d8bec958
                     <img src=\"";
         // line 18
         echo twig_escape_filter($this->env, get_logo_config(), "html", null, true);
-        echo "\"> <span class=\"visible-desktop visible-tablet brand-txt\">SMA DHARMA KIRTI</span>
+        echo "\"> <span class=\"visible-desktop visible-tablet brand-txt\">SMK Pariwisata Singamandawa Monarch Bali</span>
                 </a>
 
                 <div class=\"nav-collapse collapse navbar-inverse-collapse\">
